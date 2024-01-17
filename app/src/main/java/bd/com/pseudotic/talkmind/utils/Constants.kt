@@ -7,7 +7,7 @@ package bd.com.pseudotic.talkmind.utils
 class Constants {
     companion object {
         // API Key for OpenAI API
-        const val API_KEY: String = "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"
+        const val API_KEY: String = "your api key"
 
         // Base URL for OpenAI API
         const val BASE_URL = "https://api.openai.com/v1/chat/completions"
